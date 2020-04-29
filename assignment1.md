@@ -36,11 +36,11 @@
 
 
 **Levels of Abstraction:*
--->*SAAS* Software as a service
+1. *SAAS* Software as a service
 	**example** 1. Tableau 2. Splunk
--->*PAAS* Platform as a service
+2. *PAAS* Platform as a service
 	**example** 1. Hosted Database(RDS) 2. Hadoop
--->*IAAS* Infrastructure as a Service
+3. *IAAS* Infrastructure as a Service
 	**example** 1.Virtual Machine i.e. Ec2 2. Volume (disks)
 
 ### EC2 (Elastic Compute Cloud)
