@@ -22,9 +22,9 @@
 
 ## Types of Cloud
 
-* Public Cloud *
-* Private Cloud *
-* Hybrid Cloud *
+- Public Cloud 
+- Private Cloud 
+- Hybrid Cloud 
 
 # *Public* Cloud
 	Can be used by anyone.
