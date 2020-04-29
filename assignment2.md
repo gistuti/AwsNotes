@@ -9,8 +9,8 @@
 	2. Outbound - It controls the outgoing traffic.
 
 
-##Storage
--S3--> Simple Storage Services is storage for the internet. We can retrieve any amount of data at any time from anywhere.
+## Storage
+**S3** Simple Storage Services is storage for the internet. We can retrieve any amount of data at any time from anywhere.
 
 -S3 stores the data as files in the bucket. In this we can set the permissions on the files.
 
