@@ -27,7 +27,7 @@ We can do this by using *IAM Roles* which can be defined as the identity authent
 5. Select AmazonS3FullAccess.
 
 
-6. From the drop down select JSON: Here the value present is in the form of dictionary i.e. **{key:value}
+6. From the drop down select JSON: Here the value present is in the form i.e. **{key:value}**
 
 
 7. Select Next Tag.
