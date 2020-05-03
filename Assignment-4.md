@@ -2,9 +2,12 @@
 
 Direct communication between the two services **(for example EC-2 and S3)** is not possible in *AWS*.
 
-We can do this in two ways / - Inside AWS,**and** - Outside AWS.
+We can do this in two ways
+- Inside AWS,**and**
+- Outside AWS.
 
-*# Inside AWS *
+# Inside AWS 
+
 
 We can do this by using *IAM Roles* which can be defined as the identity authentication.There are some rules or policies in it through which we can decide the permissions for accessing the services.
 
