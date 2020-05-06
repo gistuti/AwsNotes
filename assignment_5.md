@@ -6,7 +6,7 @@ If we are accessing the s3 from outside i.e. locallaptop then we need to use the
 	
 
 
-	|It is managed by AWS and it is a dedicated AWS server|EC-2 is mananged by AWS but any application inside will be managed by 										developers|
+	|It is managed by AWS and it is a dedicated AWS server|EC-2 is mananged by AWS but any application inside will be managed by developers|
 
 			      |Scalability is maintained by AWS | Developer need to do the maintainance|
 
