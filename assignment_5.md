@@ -1,4 +1,4 @@
-If we are accessing the s3 from outside i.e. locallaptop then we need to use the secret key and access key.
+If we are accessing the S3 from outside i.e. local laptop then we need to use the secret key and access key.
 
 # Difference between RDS in AWS and RDS inside EC-2 in AWS.
 
