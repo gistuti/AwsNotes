@@ -28,24 +28,30 @@ If we are accessing the s3 from outside i.e. locallaptop then we need to use the
 	
 # How to launch Lambda Function. 
 
- * 1. Select Lambda from services and select create function *
+ 1. Select Lambda from services and select create function 
 
 ![day5_1](https://user-images.githubusercontent.com/63596252/81172279-946c4000-8fbb-11ea-9476-e7ff8654997a.png)
 
- * 2. Select * Use a blueprint * and search for hello and select hello-world python. *
+  2. Select * Use a blueprint * and search for hello and select hello-world python. 
+  
 ![day5_2](https://user-images.githubusercontent.com/63596252/81172282-959d6d00-8fbb-11ea-9bfe-c298f5d13bad.png)
 
- * 3. Use existing role and give function name. *
+  3. Use existing role and give function name. 
+
 ![day5_3](https://user-images.githubusercontent.com/63596252/81172283-96360380-8fbb-11ea-9000-e3ed1aab497a.png)
 
- * 4. Click on Create Function. *
+  4. Click on Create Function. 
+  
 ![day5_4](https://user-images.githubusercontent.com/63596252/81172284-96360380-8fbb-11ea-9a86-9058c0b6c10c.png)
 
- * 5.Select the function created. *
+  5.Select the function created. 
+  
 ![day5_5](https://user-images.githubusercontent.com/63596252/81172286-96ce9a00-8fbb-11ea-9b16-d4a9b36325b9.png)
 
- * 6. Click on test and give desired values. *
+  6. Click on test and give desired values. 
+  
 ![day5_6](https://user-images.githubusercontent.com/63596252/81172287-96ce9a00-8fbb-11ea-9e62-40fe32747b76.png)
 
- * 7. Save the code and Test it. *
+  7. Save the code and Test it. 
+  
 ![day5_7](https://user-images.githubusercontent.com/63596252/81172290-97673080-8fbb-11ea-895d-37d7e7638296.png)
