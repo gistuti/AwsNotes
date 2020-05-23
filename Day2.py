@@ -1,4 +1,4 @@
-'''
+
 Day-2
 1.	Python Program to Read a Number n And Print the Series “1+2+…..+n= “
           sample:
@@ -80,5 +80,4 @@ for i in range(1,6):
         print(i, end=" ")
     print()
 
-'''
 
